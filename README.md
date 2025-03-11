@@ -15,3 +15,8 @@ TDD, TEST 코드 작성 실습
     - 4등: 4개 번호 일치 / 50,000원
     - 5등: 3개 번호 일치 / 5,000원
 ```
+
+ - src/main/java/hanghae/study/studytdd/Lotto.class: 로또 기능이 포함된 코어
+ - src/test/java/hanghae/study/studytdd/LottoTest.class: Lotto.class TEST 코드
+ - src/main/java/hanghae/study/studytdd/Rank.enum: 로또 등수 저장 enum type
+ 
